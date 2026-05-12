@@ -8,7 +8,8 @@
 
 **Kaushal Sahu** & **Dr. Raman Raju** *(Instructor)*  
 Dept. of Data Analytics and Mathematical Sciences, JAIN (Deemed-to-be University), Bengaluru, India  
-📧 [kaushalsahuofficial@gmail.com](mailto:kaushalsahuofficial@gmail.com)
+📧 [kaushalsahuofficial@gmail.com](mailto:kaushalsahuofficial@gmail.com)<br>
+📊 [Linkedin](https://www.linkedin.com/in/kaushal-sahu/)
 
 ---
 
