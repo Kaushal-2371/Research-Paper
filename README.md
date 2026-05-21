@@ -23,8 +23,8 @@ Standard attendance systems rely on fixed cameras or manual sign-ins. This resea
 > Camera → YOLOv9 Detection → HOG Features (Feature extraction) → SSIM Matching → CSV Log
 
 
-**Hardware:** Micro HD camera · Raspberry Pi 3B+ · LiPo battery · activation switch.  
-**Recognition:** Fine-tuned YOLOv9-S · HOG feature extraction · SSIM face matching.
+**Hardware:** Micro HD camera · Raspberry Pi 3B+ · LiPo battery · activation switch  
+**Recognition:** Fine-tuned YOLOv9-S · HOG feature extraction · SSIM face matching
 
 ---
 
